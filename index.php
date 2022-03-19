@@ -11,11 +11,8 @@
 
 <body>
     <!-- BODY -->
-    <div class="G">
-        <div class="pic">
-            <img src="4.jpg" class="img-fluid" alt="Responsive image">
-            <div class="text">welcome</div>
-        </div>    
+    
+        <img src="4.jpg" style="width: 100%;" class="img-fluid" alt="Responsive image">
     </div>    
     <div class="container">
         
