@@ -1,0 +1,23 @@
+div.g img
+{
+    position: relative;
+    width: 100%;
+}
+body
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+}
+div.G div div
+{
+    clear: both;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 559;
+    border: none;
+    background: none;
+    width: auto;
+    font-size: 125px;
+    color: white;
+}

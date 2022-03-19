@@ -1,0 +1,23 @@
+div.g div img
+{
+    clear: both;
+    width: 100%;
+}
+div.g
+{
+    width: 40%;
+    position: absolute;
+}
+div.g div div
+{
+    clear: both;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    background: none;
+    width: auto;
+    font-size: 34px;
+    -webkit-text-stroke: 1px white;
+}
